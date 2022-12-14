@@ -1,0 +1,69 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Frying pan's ex",
+      "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Doloribusratione odit    officiis ipsam unde praesentium repellat eiuscorrupti et debitis iste possimus magnam optio obcaecati, quosaliquam ducimus. Similique placeat saepe quae laudantium namquisquam recusandae. Assumenda laborum incidunt modi?",
+      "author": "Frying pan"
+    },
+    {
+      "id": 2,
+      "title": "Joma's Job",
+      "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Doloribusratione odit    officiis ipsam unde praesentium repellat eiuscorrupti et debitis iste possimus magnam optio obcaecati, quosaliquam ducimus. Similique placeat saepe quae laudantium namquisquam recusandae. Assumenda laborum incidunt modi?",
+      "author": "Joma"
+    },
+    {
+      "id": 3,
+      "title": "The Ninja of the interNet",
+      "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Doloribusratione odit    officiis ipsam unde praesentium repellat eiuscorrupti et debitis iste possimus magnam optio obcaecati, quosaliquam ducimus. Similique placeat saepe quae laudantium namquisquam recusandae. Assumenda laborum incidunt modi?",
+      "author": "Shaun J.P"
+    },
+    {
+      "id": 4,
+      "title": "Echo blogs",
+      "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Doloribusratione odit    officiis ipsam unde praesentium repellat eiuscorrupti et debitis iste possimus magnam optio obcaecati, quosaliquam ducimus. Similique placeat saepe quae laudantium namquisquam recusandae. Assumenda laborum incidunt modi?",
+      "author": "Ryan Favour"
+    },
+    {
+      "id": 5,
+      "title": "Learm C# in 30Min",
+      "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Doloribusratione odit    officiis ipsam unde praesentium repellat eiuscorrupti et debitis iste possimus magnam optio obcaecati, quosaliquam ducimus. Similique placeat saepe quae laudantium namquisquam recusandae. Assumenda laborum incidunt modi?",
+      "author": "Ryan Favour"
+    },
+    {
+      "id": 6,
+      "title": "Learn JavaScript in 1hour",
+      "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Doloribusratione odit    officiis ipsam unde praesentium repellat eiuscorrupti et debitis iste possimus magnam optio obcaecati, quosaliquam ducimus. Similique placeat saepe quae laudantium namquisquam recusandae. Assumenda laborum incidunt modi?",
+      "author": "Ryan Favour"
+    },
+    {
+      "id": 7,
+      "title": "Learn how to be a PlayBoy in 30days",
+      "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Doloribusratione odit    officiis ipsam unde praesentium repellat eiuscorrupti et debitis iste possimus magnam optio obcaecati, quosaliquam ducimus. Similique placeat saepe quae laudantium namquisquam recusandae. Assumenda laborum incidunt modi?",
+      "author": "Michael"
+    },
+    {
+      "author": "Igbaro Taiwo",
+      "title": "Grow you business with Royal Food",
+      "paragraph": "Want even more chances to win? In addition to our solutions draw, we are also holding a second prize draw for code reviews.\n\nTo enter, select another person’s entry from the JavaScriptmas forum, record a quick scrim explaining your feedback on the code, and post it in response on Discord.",
+      "id": 8
+    }
+  ],
+  "store": [
+    {
+      "id": 1,
+      "item": "Human meat",
+      "price": 100
+    },
+    {
+      "id": 2,
+      "item": "Dog meat",
+      "price": 50
+    },
+    {
+      "id": 3,
+      "item": "Milk",
+      "price": 1000
+    }
+  ]
+}

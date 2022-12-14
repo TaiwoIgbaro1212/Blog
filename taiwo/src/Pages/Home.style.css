@@ -1,0 +1,9 @@
+/* parent box for all blog */
+
+.parent_box {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    gap: 2em;
+    place-items: center;
+    padding: 3em;
+  }
