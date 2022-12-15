@@ -1,52 +1,28 @@
 {
   "blogs": [
     {
-      "id": 1,
-      "title": "Frying pan's ex",
-      "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Doloribusratione odit    officiis ipsam unde praesentium repellat eiuscorrupti et debitis iste possimus magnam optio obcaecati, quosaliquam ducimus. Similique placeat saepe quae laudantium namquisquam recusandae. Assumenda laborum incidunt modi?",
-      "author": "Frying pan"
+      "title": "Why JavaScript?",
+      "author": "John Doe",
+      "paragraph": "JavaScript is a programming language, and like most programming languages, it has some basic constructs that we’ll look at. A program in JavaScript is like a sequence of steps. Similar to how we give directions to a stranger, a computer needs detailed instructions, defined as steps, to accomplish any simple or complex action.\n\n",
+      "id": 1
     },
     {
-      "id": 2,
-      "title": "Joma's Job",
-      "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Doloribusratione odit    officiis ipsam unde praesentium repellat eiuscorrupti et debitis iste possimus magnam optio obcaecati, quosaliquam ducimus. Similique placeat saepe quae laudantium namquisquam recusandae. Assumenda laborum incidunt modi?",
-      "author": "Joma"
+      "title": "Understanding Life",
+      "author": "Unknown Person",
+      "paragraph": "Life, for me, is like a tree that gives birth to another from the seed former reaps. Focus on the things that are happening well in our life for the world is never going to say the good things about us and we need to be super positive from inside, motivating ourselves all the time from within.",
+      "id": 2
     },
     {
-      "id": 3,
-      "title": "The Ninja of the interNet",
-      "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Doloribusratione odit    officiis ipsam unde praesentium repellat eiuscorrupti et debitis iste possimus magnam optio obcaecati, quosaliquam ducimus. Similique placeat saepe quae laudantium namquisquam recusandae. Assumenda laborum incidunt modi?",
-      "author": "Shaun J.P"
+      "title": "React",
+      "author": "React.com",
+      "paragraph": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.",
+      "id": 3
     },
     {
-      "id": 4,
-      "title": "Echo blogs",
-      "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Doloribusratione odit    officiis ipsam unde praesentium repellat eiuscorrupti et debitis iste possimus magnam optio obcaecati, quosaliquam ducimus. Similique placeat saepe quae laudantium namquisquam recusandae. Assumenda laborum incidunt modi?",
-      "author": "Ryan Favour"
-    },
-    {
-      "id": 5,
-      "title": "Learm C# in 30Min",
-      "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Doloribusratione odit    officiis ipsam unde praesentium repellat eiuscorrupti et debitis iste possimus magnam optio obcaecati, quosaliquam ducimus. Similique placeat saepe quae laudantium namquisquam recusandae. Assumenda laborum incidunt modi?",
-      "author": "Ryan Favour"
-    },
-    {
-      "id": 6,
-      "title": "Learn JavaScript in 1hour",
-      "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Doloribusratione odit    officiis ipsam unde praesentium repellat eiuscorrupti et debitis iste possimus magnam optio obcaecati, quosaliquam ducimus. Similique placeat saepe quae laudantium namquisquam recusandae. Assumenda laborum incidunt modi?",
-      "author": "Ryan Favour"
-    },
-    {
-      "id": 7,
-      "title": "Learn how to be a PlayBoy in 30days",
-      "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Doloribusratione odit    officiis ipsam unde praesentium repellat eiuscorrupti et debitis iste possimus magnam optio obcaecati, quosaliquam ducimus. Similique placeat saepe quae laudantium namquisquam recusandae. Assumenda laborum incidunt modi?",
-      "author": "Michael"
-    },
-    {
-      "author": "Igbaro Taiwo",
-      "title": "Grow you business with Royal Food",
-      "paragraph": "Want even more chances to win? In addition to our solutions draw, we are also holding a second prize draw for code reviews.\n\nTo enter, select another person’s entry from the JavaScriptmas forum, record a quick scrim explaining your feedback on the code, and post it in response on Discord.",
-      "id": 8
+      "title": "Redux",
+      "author": "Redux.con",
+      "paragraph": "Redux helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test.",
+      "id": 4
     }
   ],
   "store": [

@@ -1,28 +1,42 @@
 .detail {
-    background-color:#29231F;
-    min-height: 100vh;
-  }
-  
-  .detail > div{
-    /* padding: 1em; */
-    height: 100%;
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    gap:0.5em;
-  }
-  
-  .detail > div h2{
-    background:linear-gradient(rgba(205, 88, 92, 0.5),rgba(78, 78, 50, 0.5)), url('../Images/logo.png');
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-    padding: 3em 1em;
-    text-align: center;
-    color: white;
-  }
-  
-  .detail  > div p{
-    padding: 10px 1em;
-    color: white;
-  }
+  background-color: #29231F;
+  min-height: 100vh;
+}
+
+.detail>div {
+  /* padding: 1em; */
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5em;
+}
+
+.detail>div h2 {
+  background: linear-gradient(rgba(205, 88, 92, 0.5), rgba(78, 78, 50, 0.5)), url('../Images/logo.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 3em 1em;
+  text-align: center;
+  color: white;
+}
+
+.detail>div p {
+  padding: 10px 1em;
+  color: white;
+}
+
+.del {
+  background-color: rgb(0, 168, 39);
+  border-radius: 12px;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  margin: auto;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  width: 180px;
+}

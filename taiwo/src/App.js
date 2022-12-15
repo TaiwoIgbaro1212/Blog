@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import axios from "axios";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import Home from "./Pages/Home";
@@ -15,12 +15,11 @@ function App() {
       .get(url)
       .then((res) => setData(res.data))
       .catch((err) => console.log(err, "Error"));
-      
   }
 
   useEffect(() => {
     getData("http://localhost:3000/blogs");
-  }, []);
+  }, [data]);
 
   return (
     <div className="App">
